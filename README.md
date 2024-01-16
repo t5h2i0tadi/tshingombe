@@ -673,5 +673,114 @@ print-reward-bing - History Mgr 	4122494371	ia601302.us.archive.org	archive.php	
 print-reward-bing - History Mgr 	4122494062	ia601302.us.archive.org	book_op.php	(27.7 minutes) 	Rdferz	op0=VirusCheck&dir=/13/it..
 print-reward-bing - History Mgr 	4122493748	ia601302.us.archive.org	archive.php	(28.3 minutes) 	Rdferz	done=delete&from_url=rsyn..
 print-reward-bing - History Mgr 	4122493723	ia601302.us.archive.org	archive.php	(28.3 minutes) 	Rdferz	done=delete&from_url=rsyn..
+Media Type
+32
+texts
+3
+software
+1
+data
+Year
+4
+2024
+23
+2023
+9
+2022
+Topics & SubjectsShow sorted alphabetically
+4
+engineering
+3
+engineering electrical
+2
+engineering tvet
+1
+ENGINEERING NATED
+1
+award ruling ccma tshingombe
+1
+career tshingombe
+More right-solid
+Collection
+32
+Community Texts
+16
+Community Collections
+3
+Community Software
+1
+Community Data
+More right-solid
+CreatorShow sorted alphabetically
+22
+tshingombe
+1
+ccma labour
+1
+eduction portofolio
+1
+engineering teshingombe portofolio
+1
+expo science , teacher career
+1
+fiston office wallet
+More right-solid
+Language
+36
+English
+
+Skip to main content
+Upload
+Books
+Video
+Audio
+Software
+Images
+
+    Upload files
+    My uploads
+    My loans
+    My favorites
+    My web archives
+    Account settings
+    Get help
+    Log out
+
+Search metadata
+Search text contents
+Search TV news captions
+Search radio transcripts
+Search archived web sites
+Advanced Search
+
+    About Blog Projects Help Donate 
+
+    Contact Jobs Volunteer People 
+
+Metadata editor for @rdferz
+Bold fields below are required.
+You may also visit the Item Manager question-dark
+Field Name	Description	Value
+identifier:	The identifier of the account	
+title:	The title of the account	
+mediatype:	Indicates to the website that this item is a account.	
+collection:	Indicates to the website what collection this item belongs to. Must be a valid identifier.	
+description:	 	 
+  	
+
+pick:	This item should appear on the "pick" list for this collection, 0 or 1.	
+noindex:	Keep this item out of the search engine, true or [blank].	
+hidden:	[deprecated] Hide this item from search results, 0 or 1.	
+publicdate:	Date this item went public	
+addeddate:	Date this item was added	
+adder:	Person who added item	
+uploader:	Person who uploaded item	
+updater:	Person who updated item	
+updatedate:	When person uploaded item	
+	Custom field.	
+	Custom field.	
+	Custom field.	
+
+
 
 
