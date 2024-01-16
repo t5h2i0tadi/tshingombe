@@ -617,3 +617,61 @@ Harriet Magolego (Thu, 1/11/2024, 01:40:55 pm Africa/Johannesburg)
 Welcome to the Career Development Services LiveChat. How can we help you today?
 
 tshingombe (Thu, 1/11/2024, 01:42:05 p
+Skip to main content
+Upload
+Books
+Video
+Audio
+Software
+Images
+
+    Upload files
+    My uploads
+    My loans
+    My favorites
+    My web archives
+    Account settings
+    Get help
+    Log out
+
+Search metadata
+Search text contents
+Search TV news captions
+Search radio transcripts
+Search archived web sites
+Advanced Search
+
+    About Blog Projects Help Donate 
+
+    Contact Jobs Volunteer People 
+
+Item History for print-reward-bing (page drawn: PST: 2024-01-16 03:12:14)
+question-dark Legend and row counts:
+Waiting to run 	2
+Running 	1
+Waiting for admin 	0
+Parked 	0
+Other 	0
+Finished 	13
+server readonly -- tasks waiting for harddrive fix
+disk readonly -- tasks waiting for rescue task
+where am I in line?
+identifier 	task_id 	server 	cmd 	submittime 	submitter 	args
+print-reward-bing - History Mgr 	4122518114	ia601302.us.archive.org	modify_xml.php	(5.0 seconds) 	Rdferz	-target=reviews&-patch={"..
+print-reward-bing - History Mgr 	4122516809	ia601302.us.archive.org	derive.php	(1.8 minute) 	Rdferz	dir=/13/items/print-rewar..
+print-reward-bing - History Mgr 	4122515744	ia601302.us.archive.org	book_op.php	(3.1 minutes) 	Rdferz	op0=VirusCheck&dir=/13/it..
+print-reward-bing - History Mgr 	4122514015	ia601302.us.archive.org	archive.php	(5.0 minutes) 	Rdferz	done=delete&from_url=rsyn..
+print-reward-bing - History Mgr 	4122511279	ia601302.us.archive.org	archive.php	(7.2 minutes) 	Rdferz	done=delete&from_url=rsyn..
+print-reward-bing - History Mgr 	4122510101	ia601302.us.archive.org	book_op.php	(8.1 minutes) 	Rdferz	op0=VirusCheck&dir=/13/it..
+print-reward-bing - History Mgr 	4122505949	ia601302.us.archive.org	archive.php	(10.8 minutes) 	Rdferz	done=delete&from_url=rsyn..
+print-reward-bing - History Mgr 	4122502880	ia601302.us.archive.org	archive.php	(13.4 minutes) 	Rdferz	done=delete&from_url=rsyn..
+print-reward-bing - History Mgr 	4122499479	ia601302.us.archive.org	archive.php	(19.0 minutes) 	Rdferz	done=delete&from_url=rsyn..
+print-reward-bing - History Mgr 	4122498899	ia601302.us.archive.org	book_op.php	(20.1 minutes) 	Rdferz	op0=VirusCheck&dir=/13/it..
+print-reward-bing - History Mgr 	4122495979	ia601302.us.archive.org	archive.php	(24.6 minutes) 	Rdferz	done=delete&from_url=rsyn..
+print-reward-bing - History Mgr 	4122495184	ia601302.us.archive.org	archive.php	(25.9 minutes) 	Rdferz	done=delete&from_url=rsyn..
+print-reward-bing - History Mgr 	4122494371	ia601302.us.archive.org	archive.php	(27.1 minutes) 	Rdferz	done=delete&from_url=rsyn..
+print-reward-bing - History Mgr 	4122494062	ia601302.us.archive.org	book_op.php	(27.7 minutes) 	Rdferz	op0=VirusCheck&dir=/13/it..
+print-reward-bing - History Mgr 	4122493748	ia601302.us.archive.org	archive.php	(28.3 minutes) 	Rdferz	done=delete&from_url=rsyn..
+print-reward-bing - History Mgr 	4122493723	ia601302.us.archive.org	archive.php	(28.3 minutes) 	Rdferz	done=delete&from_url=rsyn..
+
+
