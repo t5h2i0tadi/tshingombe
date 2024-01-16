@@ -221,3 +221,62 @@ portofolio-evidence-low-dhet-saqa-su - History Mgr 	3519719448	ia904708.us.archi
 portofolio-evidence-low-dhet-saqa-su - History Mgr 	3519719256	ia904708.us.archive.org	archive.php	(1.1 year) 	Rdferz	done=bup-derive&from_url=..
 portofolio-evidence-low-dhet-saqa-su - History Mgr 	3519719209	ia904708.us.archive.org	archive.php	(1.1 year) 	Rdferz	done=bup-derive&from_url=..
 	
+
+Skip to main content
+Upload
+Books
+Video
+Audio
+Software
+Images
+
+    Upload files
+    My uploads
+    My loans
+    My favorites
+    My web archives
+    Account settings
+    Get help
+    Log out
+
+Search metadata
+Search text contents
+Search TV news captions
+Search radio transcripts
+Search archived web sites
+Advanced Search
+
+    About Blog Projects Help Donate 
+
+    Contact Jobs Volunteer People 
+
+Item History for zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college (page drawn: PST: 2024-01-16 02:37:39)
+question-dark Legend and row counts:
+Waiting to run 	1
+Running 	1
+Waiting for admin 	0
+Parked 	0
+Other 	0
+Finished 	16
+server readonly -- tasks waiting for harddrive fix
+disk readonly -- tasks waiting for rescue task
+where am I in line?
+identifier 	task_id 	server 	cmd 	submittime 	submitter 	args
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122489514	ia601305.us.archive.org	modify_xml.php	(5.0 seconds) 	Rdferz	-target=reviews&-patch={"..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122485497	iw601402	derive.php	(6.1 minutes) 	Rdferz	server_primary=ia601305.u..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122485438	ia601305.us.archive.org	book_op.php	(6.2 minutes) 	Rdferz	op0=VirusCheck&dir=/6/ite..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122484429	ia601305.us.archive.org	archive.php	(7.9 minutes) 	Rdferz	done=delete&from_url=rsyn..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122484365	ia601305.us.archive.org	book_op.php	(8.1 minutes) 	Rdferz	op0=VirusCheck&dir=/6/ite..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122484171	ia601305.us.archive.org	archive.php	(8.5 minutes) 	Rdferz	done=delete&from_url=rsyn..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122483200	ia601305.us.archive.org	archive.php	(9.9 minutes) 	Rdferz	done=delete&from_url=rsyn..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122483087	ia601305.us.archive.org	book_op.php	(10.0 minutes) 	Rdferz	op0=VirusCheck&dir=/6/ite..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122482786	ia601305.us.archive.org	archive.php	(10.5 minutes) 	Rdferz	done=delete&from_url=rsyn..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122482757	ia601305.us.archive.org	book_op.php	(10.6 minutes) 	Rdferz	op0=VirusCheck&dir=/6/ite..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122482672	ia601305.us.archive.org	archive.php	(10.7 minutes) 	Rdferz	done=delete&from_url=rsyn..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122482534	ia601305.us.archive.org	book_op.php	(11.0 minutes) 	Rdferz	op0=VirusCheck&dir=/6/ite..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122482418	ia601305.us.archive.org	archive.php	(11.2 minutes) 	Rdferz	done=delete&from_url=rsyn..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122482315	ia601305.us.archive.org	book_op.php	(11.3 minutes) 	Rdferz	op0=VirusCheck&dir=/6/ite..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122482220	ia601305.us.archive.org	archive.php	(11.4 minutes) 	Rdferz	done=delete&from_url=rsyn..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122481662	ia601305.us.archive.org	book_op.php	(12.3 minutes) 	Rdferz	op0=VirusCheck&dir=/6/ite..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122481364	ia601305.us.archive.org	archive.php	(12.6 minutes) 	Rdferz	done=delete&from_url=rsyn..
+zaire-gmail-welcome-to-learner-profiler-for-central-johannesburg-tvet-college - History Mgr 	4122481323	ia601305.us.archive.org	archive.php	(12.7 minutes) 	Rdferz	done=delete&from_url=rsyn..
